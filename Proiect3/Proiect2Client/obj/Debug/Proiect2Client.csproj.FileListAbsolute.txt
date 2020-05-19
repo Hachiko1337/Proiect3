@@ -1,0 +1,39 @@
+C:\Users\hachi\source\repos\Proiect2Client\bin\Debug\Proiect2Client.exe.config
+C:\Users\hachi\source\repos\Proiect2Client\bin\Debug\Proiect2Client.exe
+C:\Users\hachi\source\repos\Proiect2Client\bin\Debug\Proiect2Client.pdb
+C:\Users\hachi\source\repos\Proiect2Client\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\hachi\source\repos\Proiect2Client\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.ProgramForm.resources
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.Properties.Resources.resources
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.csproj.GenerateResource.cache
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.csproj.CopyComplete
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.exe
+C:\Users\hachi\source\repos\Proiect2Client\obj\Debug\Proiect2Client.pdb
+C:\Users\raste\Downloads\repos\Proiect2Client\bin\Debug\Proiect2Client.exe.config
+C:\Users\raste\Downloads\repos\Proiect2Client\bin\Debug\Proiect2Client.exe
+C:\Users\raste\Downloads\repos\Proiect2Client\bin\Debug\Proiect2Client.pdb
+C:\Users\raste\Downloads\repos\Proiect2Client\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\raste\Downloads\repos\Proiect2Client\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.csprojAssemblyReference.cache
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.ProgramForm.resources
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.Properties.Resources.resources
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.csproj.GenerateResource.cache
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.csproj.CoreCompileInputs.cache
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.csproj.CopyComplete
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.exe
+C:\Users\raste\Downloads\repos\Proiect2Client\obj\Debug\Proiect2Client.pdb
+E:\Visual Studio Projects\Proiect2Client\bin\Debug\Proiect2Client.exe.config
+E:\Visual Studio Projects\Proiect2Client\bin\Debug\Proiect2Client.exe
+E:\Visual Studio Projects\Proiect2Client\bin\Debug\Proiect2Client.pdb
+E:\Visual Studio Projects\Proiect2Client\bin\Debug\System.ServiceModel.Primitives.dll
+E:\Visual Studio Projects\Proiect2Client\bin\Debug\System.ServiceModel.Primitives.pdb
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.ProgramForm.resources
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.Properties.Resources.resources
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.csproj.CopyComplete
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.exe
+E:\Visual Studio Projects\Proiect2Client\obj\Debug\Proiect2Client.pdb

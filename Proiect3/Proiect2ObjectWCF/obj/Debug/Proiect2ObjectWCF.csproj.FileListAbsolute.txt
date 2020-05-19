@@ -1,0 +1,257 @@
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.pdb
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\MediaGallery.exe
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Proiect1.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Memory.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Buffers.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.pdb
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.dll.config
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\MediaGallery.pdb
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\MediaGallery.exe.config
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Proiect1.pdb
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Proiect1.dll.config
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Memory.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\System.Buffers.xml
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csproj.CopyComplete
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.dll
+C:\Users\hachi\source\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Proiect1.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Memory.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Buffers.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.dll.config
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Proiect1.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Proiect1.dll.config
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Memory.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Buffers.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csprojAssemblyReference.cache
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csproj.CoreCompileInputs.cache
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csproj.CopyComplete
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.dll.config
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\AutoMapper.dll
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\AutoMapper.pdb
+C:\Users\raste\Downloads\repos\Proiect2ObjectWCF\bin\Debug\AutoMapper.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.dll.config
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Proiect2ObjectWCF.pdb
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\AutoMapper.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Proiect1.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\EntityFramework.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Collections.Immutable.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Memory.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Identity.Client.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Buffers.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.pdb
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\MediaGalleryAPI.dll.config
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Proiect1.pdb
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Proiect1.dll.config
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\AutoMapper.pdb
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\AutoMapper.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\EntityFramework.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Collections.Immutable.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Memory.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.Identity.Client.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\System.Buffers.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.csproj.CopyComplete
+E:\Visual Studio Projects\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.dll
+E:\Visual Studio Projects\Proiect2ObjectWCF\obj\Debug\Proiect2ObjectWCF.pdb

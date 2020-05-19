@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Files" EntityType="Model1.File" />
+    <EntitySet Name="Properties" EntityType="Model1.Property" />
+    <EntitySet Name="Metadata" EntityType="Model1.Metadata" />
+    <AssociationSet Name="FileProperty" Association="Model1.FileProperty">
+      <End Role="File" EntitySet="Files" />
+      <End Role="Property" EntitySet="Properties" />
+    </AssociationSet>
+    <AssociationSet Name="FileMetadata" Association="Model1.FileMetadata">
+      <End Role="File" EntitySet="Files" />
+      <End Role="Metadata" EntitySet="Metadata" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="File">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FilePath" Type="String" Nullable="false" MaxLength="100" />
+    <NavigationProperty Name="Properties" Relationship="Model1.FileProperty" FromRole="File" ToRole="Property" />
+    <NavigationProperty Name="Metadata" Relationship="Model1.FileMetadata" FromRole="File" ToRole="Metadata" />
+  </EntityType>
+  <EntityType Name="Property">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FileId1" Nullable="false" Type="Int32" />
+    <Property Name="EventName" Type="String" Nullable="false" MaxLength="20" />
+    <Property Name="PersonName" Type="String" Nullable="false" MaxLength="20" />
+    <Property Name="LandscapeName" Type="String" Nullable="false" MaxLength="20" />
+    <Property Name="PlaceName" Type="String" Nullable="false" MaxLength="20" />
+    <NavigationProperty Name="File" Relationship="Model1.FileProperty" FromRole="Property" ToRole="File" />
+  </EntityType>
+  <EntityType Name="Metadata">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="FileID" Nullable="false" annotation:StoreGeneratedPattern="None" Type="Int32" />
+    <Property Name="FIleType" Type="String" Nullable="false" MaxLength="10" />
+    <Property Name="CreatedAt" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="File" Relationship="Model1.FileMetadata" FromRole="Metadata" ToRole="File" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <Association Name="FileProperty">
+    <End Type="Model1.File" Role="File" Multiplicity="1" />
+    <End Type="Model1.Property" Role="Property" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="File">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Property">
+        <PropertyRef Name="FileId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FileMetadata">
+    <End Type="Model1.File" Role="File" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="Model1.Metadata" Role="Metadata" Multiplicity="1" />
+  </Association>
+</Schema>

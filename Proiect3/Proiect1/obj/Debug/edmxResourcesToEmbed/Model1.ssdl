@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="Files" EntityType="Model1.Store.Files" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Properties" EntityType="Model1.Store.Properties" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Metadata" EntityType="Model1.Store.Metadata" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FileProperty" Association="Model1.Store.FileProperty">
+      <End Role="File" EntitySet="Files" />
+      <End Role="Property" EntitySet="Properties" />
+    </AssociationSet>
+    <AssociationSet Name="FileMetadata" Association="Model1.Store.FileMetadata">
+      <End Role="File" EntitySet="Files" />
+      <End Role="Metadata" EntitySet="Metadata" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Files">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FilePath" Type="nvarchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Properties">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FileId1" Type="int" Nullable="false" />
+    <Property Name="EventName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="PersonName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="LandscapeName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="PlaceName" Type="nvarchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Metadata">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="FileID" Type="int" Nullable="false" />
+    <Property Name="FIleType" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="CreatedAt" Type="datetime" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="File_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FileProperty">
+    <End Role="File" Type="Model1.Store.Files" Multiplicity="1" />
+    <End Role="Property" Type="Model1.Store.Properties" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="File">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Property">
+        <PropertyRef Name="FileId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FileMetadata">
+    <End Role="File" Type="Model1.Store.Files" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Metadata" Type="Model1.Store.Metadata" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="File">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Metadata">
+        <PropertyRef Name="File_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaGalleryModels", "MediaGalleryModels.csproj", "{5533A0F0-9631-4791-B1E5-608EF925F588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaGallery", "..\MediaGallery\MediaGallery.csproj", "{9D1802D8-91DC-42C0-A603-B15583509368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect2ObjectWCF", "..\Proiect2ObjectWCF\Proiect2ObjectWCF.csproj", "{30A1A151-E9AC-4449-8D79-F8038BF5C3B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect2Host", "..\Proiect2Host\Proiect2Host.csproj", "{7C859687-1477-43B7-9D79-EA06DDB41F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaGalleryAPI", "..\MediaGalleryAPI\MediaGalleryAPI.csproj", "{9E03B6C1-92CB-4FED-A6CF-92F03D6DF30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect2Client", "..\Proiect2Client\Proiect2Client.csproj", "{F3289510-CD02-412F-BCEA-C8BED87F2072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect3ASPNET", "..\Proiect3ASPNET\Proiect3ASPNET.csproj", "{B803C54C-F23D-42AF-A937-2E76A53D1CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5533A0F0-9631-4791-B1E5-608EF925F588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5533A0F0-9631-4791-B1E5-608EF925F588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5533A0F0-9631-4791-B1E5-608EF925F588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5533A0F0-9631-4791-B1E5-608EF925F588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1802D8-91DC-42C0-A603-B15583509368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1802D8-91DC-42C0-A603-B15583509368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1802D8-91DC-42C0-A603-B15583509368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1802D8-91DC-42C0-A603-B15583509368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A1A151-E9AC-4449-8D79-F8038BF5C3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A1A151-E9AC-4449-8D79-F8038BF5C3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A1A151-E9AC-4449-8D79-F8038BF5C3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A1A151-E9AC-4449-8D79-F8038BF5C3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C859687-1477-43B7-9D79-EA06DDB41F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C859687-1477-43B7-9D79-EA06DDB41F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C859687-1477-43B7-9D79-EA06DDB41F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C859687-1477-43B7-9D79-EA06DDB41F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E03B6C1-92CB-4FED-A6CF-92F03D6DF30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E03B6C1-92CB-4FED-A6CF-92F03D6DF30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E03B6C1-92CB-4FED-A6CF-92F03D6DF30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E03B6C1-92CB-4FED-A6CF-92F03D6DF30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3289510-CD02-412F-BCEA-C8BED87F2072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3289510-CD02-412F-BCEA-C8BED87F2072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3289510-CD02-412F-BCEA-C8BED87F2072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3289510-CD02-412F-BCEA-C8BED87F2072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B803C54C-F23D-42AF-A937-2E76A53D1CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B803C54C-F23D-42AF-A937-2E76A53D1CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B803C54C-F23D-42AF-A937-2E76A53D1CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B803C54C-F23D-42AF-A937-2E76A53D1CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CED2D11-D782-4D25-8D77-B55F2F55348B}
+	EndGlobalSection
+EndGlobal
