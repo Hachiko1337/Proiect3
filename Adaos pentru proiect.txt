@@ -1,0 +1,22 @@
+Domnule Profesor,
+
+Va scriu in speranta ca veti avea timp sa verificati doua lucrari bonus pe care le-am realizat pe langa efortul
+cerut de dumneavoastra. In cazul in care considerati ca nu este suficient de bine realizata lucrarea din Proiect3, va rog sa 
+considerati aceste lucrari ca pe un plus in deciderea notei pe care o veti acorda. Aceste proiecte se pot gasi in folderul 
+Proiect3_bonus.
+
+In acel director am separat doua lucrari finalizate care reprezeinta o aplicatie ASP .NET Core pentru incarcat imagini si o 
+alta aplicatie care reprezinta o galerie de imagini editabile.
+
+In proiectul ImageUploadDemo am realizat o aplicatie ASP .NET Core in care utilizatorul poate sa incarce o imagine de pe calculator, dupa care
+afiseaza aceasta imagine in pagina.
+
+In proiectul ImageGalleryProject am realizat o aplicatie ASP .NET Core in care utilizatorul isi poate incarca imaginile care vor fi stocate
+intr-o baza de date. Aceste imagini prezinta niste categorii care pot fi editate de utilizator dupa bunul plac. In esenta, in acest proiect
+utilizatorul poate incarca imagini, afisa imagini, sterge imagini, edita categoria de care apartine o imagine. De asemenea poate sa stearga o
+categorie, sa editeze o categorie, sa adauge o categorie si sa asigneze o categorie unei imagini.
+
+
+Cu stima,
+Mendela Alexandru-Abel
+
