@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
+using AutoMapper;
+using IdentityServer3.Core.ViewModels;
+using ImageGalleryProject.Infrastructure;
+using ImageGalleryProject.ViewModels.MediaViewModels;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ImageGalleryProject.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly IUnitOfWork _unitOfWork;
+        private readonly IMapper _mapper;
+
+        public IActionResult Index()
+        {
+            var model = _unitOfWork.MediaRepo.GetAll();
+            var vm = _mapper.Map<List<MediaViewModel>>(model);
+
+            return View(vm);
+        }
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Erorr()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}

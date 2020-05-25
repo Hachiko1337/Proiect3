@@ -1,0 +1,16 @@
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\SimpleImageGallery.deps.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\SimpleImageGallery.runtimeconfig.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\SimpleImageGallery.runtimeconfig.dev.json
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\SimpleImageGallery.dll
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.AssemblyInfoInputs.cache
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.AssemblyInfo.cs
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.genruntimeconfig.cache
+C:\Users\hachi\source\repos\SimpleImageGallery\bin\Debug\netcoreapp2.0\SimpleImageGallery.pdb
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.dll
+C:\Users\hachi\source\repos\SimpleImageGallery\obj\Debug\netcoreapp2.0\SimpleImageGallery.pdb

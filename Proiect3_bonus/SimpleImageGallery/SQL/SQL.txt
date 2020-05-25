@@ -1,0 +1,8 @@
+﻿SELECT * FROM GalleryImages
+
+INSERT INTO GalleryImages(Created, Title, [Url]) VALUES
+(GETDATE(), 'My New Boat', '/images/boat1.jpeg'),
+(GETDATE(), 'Out Sailing', '/images/boat2.jpeg'),
+(GETDATE(), 'Skate Park', '/images/skate1.jpeg'),
+(GETDATE(), 'Skateboarding', '/images/skate2.jpeg'),
+(GETDATE(), 'Skating', '/images/skate3.jpeg'),

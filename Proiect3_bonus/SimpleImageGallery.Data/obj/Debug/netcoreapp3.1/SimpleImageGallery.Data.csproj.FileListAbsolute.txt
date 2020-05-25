@@ -1,0 +1,9 @@
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\bin\Debug\netcoreapp3.1\SimpleImageGallery.Data.deps.json
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\bin\Debug\netcoreapp3.1\SimpleImageGallery.Data.dll
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\obj\Debug\netcoreapp3.1\SimpleImageGallery.Data.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\obj\Debug\netcoreapp3.1\SimpleImageGallery.Data.AssemblyInfoInputs.cache
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\obj\Debug\netcoreapp3.1\SimpleImageGallery.Data.AssemblyInfo.cs
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\bin\Debug\netcoreapp3.1\SimpleImageGallery.Data.pdb
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\obj\Debug\netcoreapp3.1\SimpleImageGallery.Data.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\obj\Debug\netcoreapp3.1\SimpleImageGallery.Data.dll
+C:\Users\hachi\source\repos\SimpleImageGallery.Data\obj\Debug\netcoreapp3.1\SimpleImageGallery.Data.pdb

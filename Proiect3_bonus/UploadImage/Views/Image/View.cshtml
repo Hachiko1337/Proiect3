@@ -1,0 +1,25 @@
+﻿@model UploadImage.Models.Image 
+@{
+    ViewData["Title"] = "View";
+}
+
+<h2>View</h2>
+
+<div>
+    <h4>Image</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd>
+            @*@HtmlDisplayFor(model => model.Title)*@
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ImagePath)
+        </dt>
+        <dd>
+            <img src="@Url.Content(Model.ImagePath)" width="250" height="250" />
+        </dd>
+    </dl>
+</div>

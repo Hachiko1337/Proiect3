@@ -1,0 +1,12 @@
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGalleryData.deps.json
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGalleryData.runtimeconfig.json
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGalleryData.runtimeconfig.dev.json
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGalleryData.dll
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGalleryData.pdb
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.AssemblyInfoInputs.cache
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.AssemblyInfo.cs
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.dll
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.pdb
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGalleryData.genruntimeconfig.cache

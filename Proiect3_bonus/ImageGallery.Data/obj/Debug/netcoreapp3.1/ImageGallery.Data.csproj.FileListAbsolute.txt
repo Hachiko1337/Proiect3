@@ -1,0 +1,8 @@
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGallery.Data.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGallery.Data.AssemblyInfoInputs.cache
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGallery.Data.AssemblyInfo.cs
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGallery.Data.deps.json
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGallery.Data.dll
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGallery.Data.runtimeconfig.json
+C:\Users\hachi\source\repos\ImageGallery.Data\bin\Debug\netcoreapp3.1\ImageGallery.Data.runtimeconfig.dev.json
+C:\Users\hachi\source\repos\ImageGallery.Data\obj\Debug\netcoreapp3.1\ImageGallery.Data.genruntimeconfig.cache

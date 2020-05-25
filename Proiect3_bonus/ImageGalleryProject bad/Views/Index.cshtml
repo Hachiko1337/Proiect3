@@ -1,0 +1,18 @@
+﻿@model IEnumerable<ImageGalleryProject.ViewModels.MediaViewModels.MediaViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3">
+                <a href="@("/uploads/" + item.ImagePath)" target="_parent">
+                    <img src="@("/uploads/" + item.ImagePath)" alt ="Lights" class="img-thumbnail">
+                </a>
+            </div>
+        }
+    </div>
+</div>
