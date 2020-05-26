@@ -20,15 +20,18 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Files[0].Id)
+                <center>@Html.DisplayNameFor(model => model.Files[0].Id)</center>
             </th>
             <th>
-                Image
+                <center>Image</center>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Files[0].FilePath)
+                <center>@Html.DisplayNameFor(model => model.Files[0].FilePath)</center>
             </th>
-            <th>Action</th>
+            <th><center>Event Name(s)</center></th>
+            <th><center>Landscape Name(s)</center></th>
+            <th><center>Person Name(s)</center></th>
+            <th><center>Place Name(s)</center></th>
             <th></th>
         </tr>
     </thead>
@@ -37,16 +40,29 @@
         {
             <tr style="font-size:small">
                 <td>
-                    @Html.DisplayFor(modelItem => item.Id)
+                    <cetner>@Html.DisplayFor(modelItem => item.Id)</cetner>
                 </td>
                 <td>
-                    <img src="@(item.FilePath)" width="25" height="25"/>
+                    <center><img src="@(item.FilePath)" width="25" height="25" /></center>
+                    @*Ar fi fost folosit pentru afisarea imaginilor din folderul Uploads din wwwroot*@
+                    @*@Html.DisplayFor(modelItem => item.FilePath.Split("\\")[item.FilePath.Count()-1])*@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.FilePath)
                 </td>
                 <td>
-                    <a asp-page="/Media/Details" asp-route-id="@item.Id">Details</a>
+                    @*<a asp-page="/Media/Details" asp-route-id="@item.Id">Details</a>*@
+                    @*@Html.DisplayFor(modelItem => item.Properties.ElementAt(0)))*@
+                    <center> - </center>
+                </td>
+                <td>
+                    <center> - </center>
+                </td>
+                <td>
+                    <center> - </center>
+                </td>
+                <td>
+                    <center> - </center>
                 </td>
             </tr>
         }

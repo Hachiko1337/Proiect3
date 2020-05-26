@@ -12,7 +12,7 @@ using ServiceReferenceProiect3;
 
 namespace Proiect3ASPNET.Pages.Media
 {
-    public  class IndexModel : PageModel
+    public class IndexModel : PageModel
     {
         FileMetadataPropertyClient p2c = new FileMetadataPropertyClient();
 
@@ -22,6 +22,7 @@ namespace Proiect3ASPNET.Pages.Media
         [BindProperty(SupportsGet = true)]
         public string searchString { get; set; }
         public int numberOfResults { get; set; }
+        public List<string> imageThumbs {get; set;}
 
         public IndexModel(/*MediaGalleryModels.API.FileContext context*/)
         {
@@ -36,13 +37,27 @@ namespace Proiect3ASPNET.Pages.Media
                 Models.FileDTO fd = new Models.FileDTO();
                 fd.Id = item.Id;
                 fd.FilePath = item.FilePath;
+                //string[] pieces = item.FilePath.Split("\\");
+                //imageThumbs.Add(pieces[pieces.Count()-1]);
                 foreach(var pp in item.Properties)
                 {
                     Models.PropertyDTO pdto = new Models.PropertyDTO();
-                    pdto.EventName = pp.EventName;
-                    pdto.LandscapeName = pp.LandscapeName;
-                    pdto.PersonName = pp.PersonName;
-                    pdto.PlaceName = pp.PlaceName;
+                    if (pp.EventName == null)
+                        pdto.EventName = "-";
+                    else
+                        pdto.EventName = pp.EventName;
+                    if (pp.LandscapeName == null)
+                        pdto.LandscapeName = "-";
+                    else
+                        pdto.LandscapeName = pp.LandscapeName;
+                    if (pp.PersonName == null)
+                        pdto.PersonName = "-";
+                    else
+                        pdto.PersonName = pp.PersonName;
+                    if (pp.PlaceName == null)
+                        pdto.PlaceName = "-";
+                    else
+                        pdto.PlaceName = pp.PlaceName;
                     pdto.FileId1 = pp.FileId1;
                     fd.Properties.Add(pdto);
                 }
